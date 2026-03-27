@@ -1,0 +1,7 @@
+{
+  "prompt": "Documentary photography style, wide-angle vertical shot looking straight down into a massive, ancient, geometrically complex stone stepwell plunging deep into the earth. The structure is 99% bone-dry, sun-baked, dusty stone. At the very bottom abyss, isolated by the sheer scale of the empty architecture, is a single, tiny, shallow puddle of dark, muddy water. The immense empty walls dominate the frame, emphasizing profound absence and the overwhelming scale of depletion. Mood: suffocating thirst, irreversible loss, heavy silence. Color palette: bleached terracotta, harsh blinding sand-yellows, deep shadowed crevices, with a singular tiny speck of dull liquid reflection at the bottom. Photorealistic, cinematic lighting. Absolutely no text, no labels, no legends, no axes, no numbers, no words, no chart elements visible anywhere in the image.",
+  "model": "DALL-E 3 via OpenAI",
+  "dataset_name": "Aqueduct Water Risk Atlas",
+  "dataset_url": "https://www.wri.org/data/aqueduct-water-risk-atlas",
+  "insight": "In highly water-stressed regions, ancient underground aquifers are being drained at such alarming rates that monumental water infrastructure now sits 99 percent empty."
+}
