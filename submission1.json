@@ -1,0 +1,6 @@
+{
+  "prompt": "High-contrast fine art studio photography. In the center of a dimly lit room hangs a wildly complex, chaotic 3D sculpture made of thousands of tangled, protruding metal wires and jagged shards. From the front, it looks like an incomprehensible, messy cluster. A single, intense, pure white spotlight shines directly through this chaotic mass from a specific angle. On the blank, flat concrete wall behind the sculpture, the cast shadow forms a perfectly clear, striking, and easily recognizable two-dimensional silhouette of a soaring bird. The depth and noise are stripped away, leaving only the essential pattern visible on the flat plane. Cinematic lighting, photorealistic. No diagrams, no graphs, no text, no labels, no mathematical notation, no equations, no floating annotations, no non-physical elements, no neural network visualisations, no data flow arrows, no UI elements, no screen displays, no infographic elements. Everything in the scene must be a physical object that could exist in the real world.",
+  "model": "DALL-E 3 via OpenAI ChatGPT Plus",
+  "concept": "dimensionality reduction",
+  "metaphor": "A chaotic, tangled 3D wire sculpture casts a clean, perfectly recognizable 2D shadow on the wall, physically projecting high-dimensional noise into a lower dimension while preserving essential structure."
+}
